@@ -1,10 +1,12 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "type-check": "tsc"
+    "lint": "next lint",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "dependencies": {
     "next": "latest",
