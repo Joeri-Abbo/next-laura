@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
-    "@types/node": "^12.12.21",
+    "@types/node": "^20.3.3",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^17.0.1",
     "postcss-preset-env": "^9.0.0",
